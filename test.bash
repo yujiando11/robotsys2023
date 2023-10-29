@@ -1,5 +1,18 @@
 #!/bin/bash
 
-out=$(seq 5 | ./plus)
+ng()
+{
+	echo NG LINE $1
+	res=1
+}
 
-[ "${out}" = 15 ]
+res=0
+
+out=$(seq 3 | ./plus)
+[ "${out}" = 6 ] || ng "${LINENO}"
+
+[ "${res}" = 0 ] && echo OK
+
+exit ${res}
+
+
