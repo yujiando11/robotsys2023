@@ -2,7 +2,7 @@
 
 ng()
 {
-	echo NG LINE $1
+	echo NG LINE ${1}
 	res=1
 }
 
