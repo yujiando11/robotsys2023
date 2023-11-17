@@ -8,7 +8,7 @@ ng()
 
 res=0
 
-out=$(seq 5 | ./plus)
+out=$(seq 5 | ./minus)
 [ "${out}" = -15.0 ] || ng "${LINENO}"
 
 [ "${res}" = 0 ] && echo OK
