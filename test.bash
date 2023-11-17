@@ -8,7 +8,7 @@ ng()
 
 res=0
 
-out=$(seq 5 | ./multiply)
+out=$(seq 5 | ./divide)
 [ "${out}" = 0.008333333333333333 ] || ng "${LINENO}"
 
 [ "${res}" = 0 ] && echo OK
