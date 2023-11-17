@@ -12,12 +12,13 @@
 
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml)
 
-・使い方
-   ダウンロード・インストール方法
+# 使い方
+* ダウンロード・インストール方法
 
-   起動する手順
+* 起動する手順
 
-   簡単な使い方
+* 簡単な使い方
+
 
 ## 必要なソフトウェア
 * Python
