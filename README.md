@@ -13,10 +13,9 @@
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml)
 
 # 使い方
-* 起動する手順・簡単な使い方
-    * ①Ubuntsを開く 
-    * ②ホームディレクトリでrobotsys2023というディレクトリを作る 
-    * ③そのディレクトリ内で上記に示したplusコマンド、minusコマンド、multiplyコマンド、divideコマンドをそれぞれ作り、実行させる。
+* ①Ubuntsを開く 
+* ②ホームディレクトリでrobotsys2023というディレクトリを作る 
+* ③そのディレクトリ内で上記に示したplusコマンド、minusコマンド、multiplyコマンド、divideコマンドをそれぞれ作り、実行させる。
     * 注意点: それぞれのファイルに対して、端末で「chmod +x」と実行権限を付与させる必要がある。
 
 
