@@ -12,9 +12,14 @@
 
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml)
 
-# 使い方
-* ①Ubuntsを開く 
-* ②ホームディレクトリでrobotsys2023というディレクトリを作る 
+# インストール方法・使い方
+* 以下の通りにコマンドを作成する。
+  ①Ubuntsを開く
+　②ホームディレクトリで「mkdir robotsys2023」とディレクトリを作成する。
+　③そのディレクトリ内で「vi plus」とファイルを作成する。
+　④そのファイル内に私のリポジトリのplusコマンドに書かれた内容をそのままコピペする。
+　⑤実行する。
+
 * ③そのディレクトリ内で上記に示したplusコマンド、minusコマンド、multiplyコマンド、divideコマンドをそれぞれ作り、実行させる。
     * 注意点: それぞれのファイルに対して、端末で「chmod +x」と実行権限を付与させる必要がある。
 
