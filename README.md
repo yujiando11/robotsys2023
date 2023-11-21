@@ -5,7 +5,7 @@
 # multiplyコマンド　
 標準入力から読み込んだ数字をかけ算する。
 # divideコマンド　　
-標準入力から読み込んだ数字を割り算する。
+標準入力から読み込んだ数字を割り算する。1
 
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml)
 
