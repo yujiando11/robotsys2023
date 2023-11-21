@@ -17,9 +17,8 @@
 $ git clone git@github.com:yujiando11/robotsys2023.git
 $ cd robotsys2023/
 $ seq 5 | ./plus
----
-$ aaa
 ```
+---
 
 
 
