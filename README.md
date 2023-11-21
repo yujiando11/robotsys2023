@@ -1,15 +1,15 @@
-# 1. plusコマンド      
+# plusコマンド      
 標準入力から読み込んだ数字を足し算する。
-# 2. minusコマンド     
+# minusコマンド     
 標準入力から読み込んだ数字を引き算する。
-# 3. multiplyコマンド　
+# multiplyコマンド　
 標準入力から読み込んだ数字をかけ算する。
-# 4. divideコマンド　　
+# divideコマンド　　
 標準入力から読み込んだ数字を割り算する。
 
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml)
 
-# インストール方法・使い方
+## インストール方法・使い方
 * 以下の通りにplusコマンドを作成する。
 	* ①Ubuntsを開く
 	* ②ホームディレクトリで「mkdir robotsys2023」とディレクトリを作成する。
