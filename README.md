@@ -1,10 +1,10 @@
-# 1.plusコマンド      
+# 1. plusコマンド      
 標準入力から読み込んだ数字を足し算する。
-# 2.minusコマンド     
+# 2. minusコマンド     
 標準入力から読み込んだ数字を引き算する。
-# 3.multiplyコマンド　
+# 3. multiplyコマンド　
 標準入力から読み込んだ数字をかけ算する。
-# 4.divideコマンド　　
+# 4. divideコマンド　　
 標準入力から読み込んだ数字を割り算する。
 
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml)
