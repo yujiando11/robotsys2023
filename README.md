@@ -13,11 +13,11 @@
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_divide.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test_divide.yml)
 
 ## インストール方法・使い方
-、、、
+```
 $ git clone git@github.com:yujiando11/robotsys2023.git
 $ cd robotsys2023/
 $ seq 5 | ./plus
-、、、
+```
 
 ## 必要なソフトウェア
 * Python
