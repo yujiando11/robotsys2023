@@ -7,7 +7,10 @@
 # divideコマンド　　
 標準入力から読み込んだ数字を割り算する。1
 
-[![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test.yml)
+![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_plus.yml/badge.svg)(https://github.com/yujiando11/robotsys2023/actions/workflows/test_plus.yml)
+![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_minus.yml/badge.svg)(https://github.com/yujiando11/robotsys2023/actions/workflows/test_minus.yml)
+![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_multiply.yml/badge.svg)(https://github.com/yujiando11/robotsys2023/actions/workflows/test_multiply.yml)
+![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_divide.yml/badge.svg)(https://github.com/yujiando11/robotsys2023/actions/workflows/test_divide.yml)
 
 ## インストール方法・使い方
 、、、
@@ -23,8 +26,7 @@ $ seq 5 | ./plus
 ## テスト環境
 * Ubunts
 
-
 ## 著作権・ライセンス
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
-* このパッケージは，3条項BSDライセンスのもとyujiando11由来のコード（© 2023 yujiando11）を利用しています．
+* © 2023 yujiando11
