@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-FileCopyrightText: 2023 yujiando11
+# SPDX-License-Identifier: BSD-3-Clause
 
 ng()
 {
