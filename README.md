@@ -45,6 +45,7 @@ $ cat num_zero
 0
 $ cat num_zero | ./divide
 0割できません
+```
 
 ## 必要なソフトウェア
 * Python
