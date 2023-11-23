@@ -10,9 +10,7 @@ ng()
 
 res=0
 
-n=2
-
-out=$(cat n | ./divide)
+out=$(cat num | ./divide)
 [ "${out}" = 0.5 ] || ng "${LINENO}"
 
 [ "${res}" = 0 ] && echo OK
