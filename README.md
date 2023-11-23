@@ -5,7 +5,7 @@
 # multiplyコマンド　
 標準入力から読み込んだ数字をかけ算する。
 # divideコマンド　　
-標準入力から読み込んだ数字を割り算する。1
+標準入力から読み込んだ数字を割り算する。
 
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_plus.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test_plus.yml)
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_minus.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test_minus.yml)
@@ -34,10 +34,17 @@ $ seq 4 | ./multiply
 ```
 ---
 ```
-$ seq 2 | ./divide
+$ cat num
+2
+$ cat num | ./divide
 0.5
 ```
-
+---
+```
+$ cat num_zero
+0
+$ cat num_zero | ./divide
+0割できません
 
 ## 必要なソフトウェア
 * Python
