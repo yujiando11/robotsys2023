@@ -11,7 +11,7 @@ ng()
 res=0
 
 out=$(cat num_zero | ./divide)
-[ "${out}" = "" ] || ng "${LINENO}"
+[ "${out}" = "0割できません" ] || ng "${LINENO}"
 
 [ "${res}" = 0 ] && echo OK
 
