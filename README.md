@@ -8,7 +8,9 @@
 標準入力から読み込んだ数字をかけ算する。
 ## divideコマンド　　
 標準入力から読み込んだ数字を割り算する。
+
 ---
+
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_plus.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test_plus.yml)
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_minus.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test_minus.yml)
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_multiply.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test_multiply.yml)
