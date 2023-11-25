@@ -25,11 +25,13 @@ $ git clone git@github.com:yujiando11/robotsys2023.git
 $ cd robotsys2023/ 
 ```
 
-## 使い方
+##使い方
+* plusコマンド
 ```
 $ seq 5 | ./plus
 15.0
 ```
+---
 ```
 $ seq 3 | ./minus
 -6.0
