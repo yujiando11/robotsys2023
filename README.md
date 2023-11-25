@@ -15,7 +15,7 @@
 [![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test2.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test2.yml)
 
 
-## インストール方法
+# インストール方法
 ```
 $ git clone git@github.com:yujiando11/robotsys2023.git
 ```
