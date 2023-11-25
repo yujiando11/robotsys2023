@@ -43,8 +43,8 @@ $ seq 3 | ./minus
 $ seq 4 | ./multiply
 24.0
 ```
-* divideコマンド
 ---
+* divideコマンド
 ```
 $ cat num
 2
