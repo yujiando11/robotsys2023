@@ -1,7 +1,7 @@
- name: test_divide        
+ name: test2        
  on: push          
  jobs:            
-    test_divide:           
+    test2:           
       runs-on: ubuntu-latest
       strategy:
         matrix:
@@ -9,4 +9,4 @@
       steps:
       - uses: actions/checkout@v3            
       - name: test           
-        run: bash -xv ./test_divide.bash
+        run: bash -xv ./test2.bash
