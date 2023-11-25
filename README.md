@@ -51,7 +51,7 @@ $ cat num
 $ cat num | ./divide
 0.5
 ```
----
+
 ```
 $ cat num_zero
 0
