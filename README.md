@@ -31,6 +31,7 @@ $ cd robotsys2023/
 $ seq 5 | ./plus
 15.0
 ```
+---
 * minusコマンド
 ```
 $ seq 3 | ./minus
