@@ -47,6 +47,7 @@ $ seq 4 | ./multiply
 ```
 ---
 * divideコマンド
+* aa
 ```
 $ cat num
 2
