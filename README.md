@@ -26,12 +26,12 @@ $ cd robotsys2023/
 ```
 
 ## 使い方
-- plusコマンド
+* plusコマンド
 ```
 $ seq 5 | ./plus
 15.0
 ```
----
+* minusコマンド
 ```
 $ seq 3 | ./minus
 -6.0
