@@ -46,8 +46,7 @@ $ seq 4 | ./multiply
 24.0
 ```
 ---
-* divideコマンド
-    * 通常
+* divideコマンド(非ゼロ)
 ```
 $ cat num
 2
@@ -55,7 +54,7 @@ $ ./divide < num
 0.5
 ```
 
-   * 0割
+* divideコマンド(ゼロ)
 
 ```
 $ cat num_zero
