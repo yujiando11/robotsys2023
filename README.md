@@ -22,6 +22,7 @@ $ git clone git@github.com:yujiando11/robotsys2023.git
 ```
 
 ## コマンドを使う準備
+* コマンドが格納されているディレクトリに移動する
 ```
 $ cd robotsys2023/ 
 ```
