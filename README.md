@@ -47,13 +47,14 @@ $ seq 4 | ./multiply
 ```
 ---
 * divideコマンド
+    * 通常
 ```
 $ cat num
 2
 $ ./divide < num
 0.5
 ```
-
+    * 0割
 ```
 $ cat num_zero
 0
