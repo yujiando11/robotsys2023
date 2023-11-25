@@ -11,10 +11,9 @@
 
 ---
 
-[![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_plus.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test_plus.yml)
-[![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_minus.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test_minus.yml)
-[![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_multiply.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test_multiply.yml)
-[![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test_divide.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test_divide.yml)
+[![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test1.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test1.yml)
+[![test](https://github.com/yujiando11/robotsys2023/actions/workflows/test2.yml/badge.svg)](https://github.com/yujiando11/robotsys2023/actions/workflows/test2.yml)
+
 
 ## インストール方法
 ```
