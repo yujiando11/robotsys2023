@@ -54,7 +54,9 @@ $ cat num
 $ ./divide < num
 0.5
 ```
+
     * 0割
+
 ```
 $ cat num_zero
 0
