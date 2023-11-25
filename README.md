@@ -50,15 +50,18 @@ $ seq 4 | ./multiply
 ```
 $ cat num
 2
-$ cat num | ./divide
+$ ./divide < num
 0.5
 ```
 
 ```
 $ cat num_zero
 0
-$ cat num_zero | ./divide
-0割できません
+$ ./divide < num_zero
+Traceback (most recent call last):
+  File "./divide", line 9, in <module>
+    ans/=float(line)
+ZeroDivisionError: float division by zero
 ```
 
 ## 必要なソフトウェア

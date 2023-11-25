@@ -6,9 +6,6 @@ import sys
 
 ans=1.0
 for line in sys.stdin:
-    try:
-        ans/=float(line)
-        print(ans)
-    except ZeroDivisionError:
-        print("0割できません")
+    ans/=float(line)
+print(ans)
 
