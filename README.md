@@ -16,6 +16,7 @@
 
 
 ## インストール方法
+* ホームディレクトリで以下のように書き込む
 ```
 $ git clone git@github.com:yujiando11/robotsys2023.git
 ```
