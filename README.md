@@ -38,10 +38,12 @@ $ seq 3 | ./minus
 -6.0
 ```
 ---
+* multiplyコマンド
 ```
 $ seq 4 | ./multiply
 24.0
 ```
+* divideコマンド
 ---
 ```
 $ cat num
