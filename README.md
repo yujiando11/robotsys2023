@@ -26,7 +26,7 @@ $ cd robotsys2023/
 ```
 
 ## 使い方
--[] plusコマンド
+- plusコマンド
 ```
 $ seq 5 | ./plus
 15.0
