@@ -17,7 +17,7 @@
 
 
 ## インストール方法
-* ホームディレクトリで以下のように書き込む
+* ホームディレクトリでインストールする
 ```
 $ git clone git@github.com:yujiando11/robotsys2023.git
 ```
@@ -47,7 +47,7 @@ $ seq 4 | ./multiply
 24.0
 ```
 ---
-* divideコマンド(非ゼロ)
+* divideコマンド(2で割り算)
 ```
 $ cat num
 2
@@ -55,7 +55,7 @@ $ ./divide < num
 0.5
 ```
 
-* divideコマンド(ゼロ)
+* divideコマンド(ゼロで割り算)
 
 ```
 $ cat num_zero
